@@ -61,6 +61,7 @@ Single-file HTML5. No install. No account. Click and play.
 | [**The Mirror Pool**](https://samirsaad786.github.io/mirror-pool/) | Puzzle / Folklore — kitsune tile-swap with dual-world mechanics |
 | [**UFO Raider**](https://samirsaad786.github.io/ufo-raider/) | Arcade / Synthwave — side-scroller with escalating wanted level and combo multipliers |
 | [**Lumen Office RPG**](https://samirsaad786.github.io/LumenOfficeRPG/) | Narrative RPG / Horror — corporate mystery with sanity mechanics and four endings |
+| [**Lumen Office RPG**](https://samirsaad786.github.io/lofi-room/) | Ambient / Interactive — lo-fi browser room with curted mood music |
 
 ---
 
