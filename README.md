@@ -48,6 +48,7 @@ Interactive tools built for HR practitioners, people leaders, and OD professiona
 | [**Comp Decoder**](https://samirsaad786.github.io/comp-decoder/) | Decode any job offer — base, bonus, equity, benefits — and know exactly what to ask for. |
 | [**M&A Leadership Simulator**](https://samirsaad786.github.io/mergers-acquisitions/) | Navigate the human side of a merger. The spreadsheet doesn't capture this part. |
 | [**TrueRecord**](https://samirsaad786.github.io/truerecord/) | Privacy-first grievance reporting portal with cryptographic audit chain. No server. No backend. |
+| [**Pattern Intel**](https://samirsaad786.github.io/termination-scanner/) | Six-agent AI scanner that reads your termination records for legal risk patterns. The pattern was always there. Someone just had to be looking. |
 
 ## 🎮 Browser Games
 
